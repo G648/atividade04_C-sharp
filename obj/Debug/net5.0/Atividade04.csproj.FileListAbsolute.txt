@@ -1,0 +1,16 @@
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\obj\Debug\net5.0\Atividade04.csproj.AssemblyReference.cache
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\obj\Debug\net5.0\Atividade04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\obj\Debug\net5.0\Atividade04.AssemblyInfoInputs.cache
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\obj\Debug\net5.0\Atividade04.AssemblyInfo.cs
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\obj\Debug\net5.0\Atividade04.csproj.CoreCompileInputs.cache
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\bin\Debug\net5.0\Atividade04.exe
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\bin\Debug\net5.0\Atividade04.deps.json
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\bin\Debug\net5.0\Atividade04.runtimeconfig.json
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\bin\Debug\net5.0\Atividade04.runtimeconfig.dev.json
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\bin\Debug\net5.0\Atividade04.dll
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\bin\Debug\net5.0\ref\Atividade04.dll
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\bin\Debug\net5.0\Atividade04.pdb
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\obj\Debug\net5.0\Atividade04.dll
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\obj\Debug\net5.0\ref\Atividade04.dll
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\obj\Debug\net5.0\Atividade04.pdb
+C:\Users\cezar\Documents\programação C-sharp\Atividade04\obj\Debug\net5.0\Atividade04.genruntimeconfig.cache
